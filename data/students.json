@@ -1,0 +1,26 @@
+[
+    {
+        "student_id": "24",
+        "full_name": "Destiny",
+        "class_form": "200",
+        "gender": "Male",
+        "date_of_birth": "2007-06-11",
+        "scores": {},
+        "result_date": null
+    },
+    {
+        "student_id": "1",
+        "full_name": "Destiny Emeka",
+        "class_form": "200 lvl",
+        "gender": "Male",
+        "date_of_birth": "2007-06-11",
+        "scores": {
+            "Mathematics": 30.0,
+            "English": 40.0,
+            "Biology": 50.0,
+            "Chemistry": 90.0,
+            "Physics": 89.0
+        },
+        "result_date": "2026-11-16 08:14:41"
+    }
+]
